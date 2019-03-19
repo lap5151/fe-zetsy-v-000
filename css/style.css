@@ -31,7 +31,7 @@ footer{
 	float: right;
 }
 
-#links a img{
+a img{
 	border: 2px;
 	border-color: #cbcbcb;
 	border-style: solid;
@@ -45,4 +45,3 @@ footer{
 	border-style: solid;
 }
 
-a img { border: 2px blue dashed; border-radius: 10px; padding: 5px; }
