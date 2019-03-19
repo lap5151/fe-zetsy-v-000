@@ -24,6 +24,14 @@ h1{
 	font-weight: lighter;
 }
 
+img{
+	border: 5px;
+	border-color: #cbcbcb;
+	border-style: solid;
+	border-radius: 4px;
+	padding: 1px;
+}
+
 h2{
 	color: #747c70;
 	font: bold;
