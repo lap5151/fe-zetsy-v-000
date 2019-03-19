@@ -27,5 +27,6 @@ p{
 }
 
 footer{
-	color: #5f6170
+	color: #5f6170;
+	float: right;
 }
