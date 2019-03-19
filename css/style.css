@@ -39,7 +39,7 @@ a img{
 	padding: 2px;
 }
 
-#links a:hover{
+a img:hover{
 	border: auto;
 	border-color: #70807b;
 	border-style: solid;
