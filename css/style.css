@@ -36,3 +36,8 @@ footer{
 	border-color: #cbcbcb;
 	border-style: solid;
 }
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
