@@ -31,12 +31,14 @@ footer{
 	float: right;
 }
 
-#links a:hover{
+#links a{
 	border: auto;
 	border-color: #cbcbcb;
 	border-style: solid;
 }
 
-a:hover {
-  color: black;
+#links a:hover{
+	border: auto;
+	border-color: #cbcbcb;
+	border-style: solid;
 }
