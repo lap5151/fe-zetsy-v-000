@@ -17,4 +17,10 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+/* LAYOUT */
+
+.wrapper{
+  width: 960px;
+  margin: 0 auto;
+  background: #eee;
+}
