@@ -44,3 +44,7 @@ a img:hover{
 	border-color: #70807b;
 	border-style: solid;
 }
+
+p a{
+	text-decoration: none;
+}
