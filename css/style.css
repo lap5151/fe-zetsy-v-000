@@ -31,7 +31,7 @@ footer{
 	float: right;
 }
 
-#links{
+#links a{
 	border: 4px;
 	border-color: #cbcbcb;
 	border-style: solid;
